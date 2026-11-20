@@ -7,7 +7,7 @@ I tried before, with a past project. Porting it to Windows using a VM. That was 
 
 
 
-Fleshed out a plan, will be using JAVA. For the game-engine and maybe something else for what the user will use for programming in.
+The game-engine will be programmed in C++. You can probably check the blame for what I said prior. I will not be utilizing Java. And what the user will program in will probably be lua.
 
 
 For any recommendations, please E-Mail me at iwanta63impala@gmail.com
